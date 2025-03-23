@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Vanesa
 
-<!--
-**SierraTrace/sierratrace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy una apasionada de la **ciberseguridad** con un enfoque en protección de sistemas, análisis de vulnerabilidades y defensa contra ataques. Actualmente me estoy **formando como Analista de Seguridad**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Me encanta investigar nuevas amenazas, mejorar la seguridad de los sistemas y seguir aprendiendo sobre nuevas herramientas y tecnologías.
+
+## 🛠️ Habilidades
+- **Lenguajes**: Python, Bash, SQL, C, Java
+- **Plataformas**: Linux, Windows
+
+## 📫 Conecta conmigo
+- **LinkedIn**: [Mi perfil](www.linkedin.com/in/vanesasierra)  
+
+
+**¡Gracias por visitar mi perfil!**  
+Espero conectar con profesionales del sector y seguir desarrollándome en el fascinante mundo de la ciberseguridad.
+
