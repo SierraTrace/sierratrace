@@ -10,7 +10,7 @@ Soy una apasionada de la **ciberseguridad** con un enfoque en protección de sis
 - **Plataformas**: Linux, Windows
 
 ## 📫 Conecta conmigo
-- **LinkedIn**: [Mi perfil]((https://www.linkedin.com/in/vanesasierra)
+- **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/vanesasierra)
 )  
 
 
