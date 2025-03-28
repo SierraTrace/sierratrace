@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Vanesa
+# 👋 ¡Hola! Soy sierraTrace
 
 Soy una apasionada de la **ciberseguridad** con un enfoque en protección de sistemas, análisis de vulnerabilidades y defensa contra ataques. Actualmente me estoy **formando como Analista de Seguridad**
 
