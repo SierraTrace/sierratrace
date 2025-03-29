@@ -16,16 +16,16 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) con un fuerte
 - **Lenguajes**: Python, Bash, SQL, C, Java
 - **Plataformas**: Linux, Windows
 
-🚀 ¿Qué estoy aprendiendo?
-Actualmente, estoy profundizando en:
+##🚀 ¿Qué estoy aprendiendo?
+- Actualmente, estoy profundizando en:
 
-Ciberseguridad y análisis de amenazas
+- Ciberseguridad y análisis de amenazas
 
-Automatización de procesos con Python
+- Automatización de procesos con Python
 
-Desarrollo web y API security
+- Desarrollo web y API security
 
-Investigación OSINT y análisis forense digital
+- Investigación OSINT y análisis forense digital
 
 
 ## 📫 Conecta conmigo
