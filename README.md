@@ -28,10 +28,5 @@ Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) con un fuerte
   - Investigación OSINT y análisis forense digital
 
 
-## 📫 Conecta conmigo
-- **LinkedIn**: [Mi perfil](https://www.linkedin.com/in/vanesasierra)  
-
-
-**¡Gracias por visitar mi perfil!**  
 
 
