@@ -1,4 +1,4 @@
-# 👩‍💻 Vanesa Sierra — Aprendiz de Ciberseguridad y Desarrolladora DAM
+Aprendiz de Ciberseguridad y Desarrolladora DAM
 
 > En transición hacia la ciberseguridad, combinando desarrollo de software, experiencia en entornos técnicos y una curiosidad infinita por el análisis de redes, hacking ético y defensa digital.
 
