@@ -22,7 +22,10 @@ Aprendiz de Ciberseguridad y Desarrolladora DAM
 
 - **DAM** – UOC  
 - **Google Cybersecurity Professional Certificate** 
-- MITRE ATT&CK, Azure Fundamentals, Linux & Git   
+- Microsoft Azure (AZ-900, AI-900, DP-900)
+- Análisis de Datos (SQL, Power BI)
+- Linux, Bash & Git
+- Oracle Java SE 8 & WebServices J2EE
 - Background en audiovisual y comunicación técnica
 
 ---
