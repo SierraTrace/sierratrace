@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy sierraTrace
 
-Soy estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) con un fuerte interés en la ciberseguridad y el análisis de datos. Actualmente, estoy cursando el Google Cybersecurity Professional Certificate, donde estoy profundizando en análisis de riesgos, identificación de amenazas y estrategias de seguridad.
-
 🔐 Me encanta investigar nuevas amenazas, mejorar la seguridad de los sistemas y seguir aprendiendo sobre nuevas herramientas y tecnologías.
 
 ## 🛠️ Habilidades
