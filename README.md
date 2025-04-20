@@ -17,23 +17,12 @@
 
 ---
 
-## 📁 Repositorios destacados
-
-- [🧪 Prácticas de escaneo con Nmap y análisis con Wireshark](#)
-- [🌐 Reconocimiento web con Dirsearch y Gobuster](#)
-- [📊 Scripts en Python para automatización y parsing de logs](#)
-- [📁 File carving y análisis forense básico](#)
-- [🔧 Laboratorio de ataques simulados con Nuclei](#)
-
-> *(Los enlaces serán actualizados conforme vaya subiendo proyectos reales de mis prácticas)*
-
----
 
 ## 🎓 Formación técnica
 
-- **DAM** (en curso) – UOC  
-- **Google Cybersecurity Professional Certificate** (2025)  
-- MITRE ATT&CK, Azure Fundamentals, Linux & Git (Campus 42)  
+- **DAM** – UOC  
+- **Google Cybersecurity Professional Certificate** 
+- MITRE ATT&CK, Azure Fundamentals, Linux & Git   
 - Background en audiovisual y comunicación técnica
 
 ---
@@ -41,7 +30,7 @@
 ## 🎯 Objetivo
 
 Construir una carrera profesional sólida en ciberseguridad, empezando desde la práctica constante.  
-Estoy abierta a proyectos, colaboraciones y posiciones junior que valoren el compromiso, la curiosidad y el aprendizaje continuo.
+Estoy abierta a proyectos, colaboraciones y posiciones que valoren el compromiso, la curiosidad y el aprendizaje continuo.
 
 ---
 
@@ -51,7 +40,7 @@ Estoy abierta a proyectos, colaboraciones y posiciones junior que valoren el com
 
 ---
 
-> “Cada día que practico, soy una versión más peligrosa… para los malos.”
+
 
 
 
