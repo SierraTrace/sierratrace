@@ -39,7 +39,6 @@ Estoy abierta a proyectos, colaboraciones y posiciones que valoren el compromiso
 
 📫 **Contacto**
 🔗 [LinkedIn](https://linkedin.com/in/vanesasierrasanchez)  
-🐙 [GitHub](https://github.com/SierraTrace)
 
 ---
 
