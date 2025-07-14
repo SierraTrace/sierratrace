@@ -18,17 +18,21 @@ Ciberseguridad y Desarrollo Software
 ---
 
 
-## 🎓 Formación técnica
+### 🎓 Formación técnica
 
-- **DAM** – UOC  
-- **Google Cybersecurity Professional Certificate** 
-- Microsoft Azure (AZ-900, AI-900, DP-900)
-- Análisis de Datos (SQL, Power BI)
-- Linux, Bash & Git
-- Oracle Java SE 8 & WebServices J2EE
-- Background en audiovisual y comunicación técnica
+| Formación                                                        |
+|-----------------------------------------------------------------|
+| **DAM – UOC**                                                   |
+| **Google Cybersecurity Professional Certificate**               |
+| **IFCT0050 - Ciberseguridad avanzada en entornos OT (Industrial)** |
+| Microsoft Azure (AZ-900, AI-900, DP-900)                        |
+| Análisis de Datos (SQL, Power BI)                               |
+| Linux, Bash & Git                                               |
+| Oracle Java SE 8 & WebServices J2EE                            |
+| Background en audiovisual y comunicación técnica               |
 
 ---
+
 
 ## 🎯 Objetivo
 
