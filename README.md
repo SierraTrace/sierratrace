@@ -1,50 +1,48 @@
-Ciberseguridad y Desarrollo Software
+<!-- Header -->
 
-> En transición hacia la ciberseguridad, combinando desarrollo de software, experiencia en entornos técnicos y una curiosidad infinita por el análisis de redes, hacking ético y defensa digital.
+<h1 align="center">Vanesa Sierra</h1>
+<p align="center">
+  <strong>Junior Cybersecurity Specialist</strong> · SOC Analyst en formación · Linux · SIEM · Python · SQL · Azure
+</p>
 
----
-
-## 🔍 Actualmente practicando con:
-
-| Categoría         | Herramientas / Técnicas                                                                 |
-|-------------------|------------------------------------------------------------------------------------------|
-| Escaneo de red    | Nmap, Wireshark                                                                          |
-| Reconocimiento web| Gobuster, Dirsearch, Nuclei                                                              |
-| Recolección de vulnerabilidades | ExploitDB, payloads de Pentestmonkey                                             |
-| Seguridad ofensiva| Simulación de ataques en laboratorio, análisis de tráfico, file carving                  |
-| Frameworks        | MITRE ATT&CK, prácticas de detección y respuesta                                         |
-| Sistemas          | Active Directory (simulado), entornos Linux y Windows                                   |
-
----
-
-
-### 🎓 Formación técnica
-
-| Formación                                                        |
-|-----------------------------------------------------------------|
-| **DAM – UOC**                                                   |
-| **Google Cybersecurity Professional Certificate**               |
-| **IFCT0050 - Ciberseguridad avanzada en entornos OT (Industrial)** |
-| Microsoft Azure (AZ-900, AI-900, DP-900)                        |
-| Análisis de Datos (SQL, Power BI)                               |
-| Linux, Bash & Git                                               |
-| Oracle Java SE 8 & WebServices J2EE                            |
-| Background en audiovisual y comunicación técnica               |
+<p align="center">
+  <!-- Badges -->
+  <a href="https://github.com/sierratrace">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sierratrace?label=Follow&style=for-the-badge" />
+  </a>
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&hide=html" />
+  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&count_private=true&hide=contribs" />
+</p>
 
 ---
 
+## 🧭 Sobre mí
+Soy Vanesa Sierra — enfocada en detección y respuesta a amenazas, con experiencia práctica en Wireshark, Nmap, IDS/IPS y automatización con Python. Trabajo integrando el enfoque técnico con la dimensión humana: comunicación clara y documentación precisa. Busco posición como **Analista SOC Junior** o rol afín en ciberseguridad.
 
-## 🎯 Objetivo
+## 🔧 Habilidades
+- Detección & Respuesta: SIEM, logs, IDS/IPS, NIST IR
+- Análisis de red: Wireshark, tcpdump, filtros avanzados
+- Hacking ético / Recon: Nmap, Recon-ng, OSINT
+- Scripting & automatización: Python, Bash, SQL
+- Cloud & Plataformas: Azure, Cloud Storage, Cloud SQL
+- OS: Linux (fuerte), Windows
+- Control de versiones: Git / GitHub
 
-Construir una carrera profesional sólida en ciberseguridad, empezando desde la práctica constante.  
-Estoy abierta a proyectos, colaboraciones y posiciones que valoren el compromiso, la curiosidad y el aprendizaje continuo.
+## 📁 Proyectos destacados
+- **Simulación SIEM & Detección** — Laboratorio con alertas simuladas y playbooks NIST.
+- **Análisis de Tráfico (Wireshark)** — Laboratorio de inspección de protocolos DNS/TCP/HTTP.
+- **CTF / Writeups** — Ejercicios de capture-the-flag y write-ups técnicos.
 
----
+## 📚 Formación y certificaciones
+- Certificado Profesional de Ciberseguridad — Google (2025)
+- Ciberseguridad Industrial — FSE (2025)
+- Microsoft Azure Fundamentals (2023)
+- MITRE ATT&CK — LinkedIn Learning (2025)
+- Técnico DAM (UOC, 2024)
 
-📫 **Contacto**
-🔗 [LinkedIn](https://linkedin.com/in/vanesasierrasanchez)  
+## 📫 Contacto
+- LinkedIn: https://www.linkedin.com/in/vanesasierra
 
----
 
 
 
