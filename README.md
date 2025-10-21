@@ -50,6 +50,7 @@
 - ☁️ **Microsoft Azure Fundamentals — (2023)**
 - 🧠 **MITRE ATT&CK — LinkedIn Learning (2025)**
 - 💻 **Técnico DAM — UOC (2026)**
+- 🌱 **Experta Profesional en Coaching Integral 3.0 — UNED (2020)**
 - 👩‍💻 **Técnico Sonido — PuertaBonita (2003)**
 
 ---
