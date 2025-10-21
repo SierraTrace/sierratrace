@@ -49,7 +49,8 @@
 - 🧰 **Ciberseguridad Industrial — FSE (2025)**
 - ☁️ **Microsoft Azure Fundamentals — (2023)**
 - 🧠 **MITRE ATT&CK — LinkedIn Learning (2025)**
-- 💻 **Técnico DAM — UOC (2024)**
+- 💻 **Técnico DAM — UOC (2026)**
+- 👩‍💻 **Técnico Sonido — PuertaBonita (2003)**
 
 ---
 
