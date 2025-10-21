@@ -18,9 +18,11 @@
 ## ⭐ Acerca de mí
 🔐 Entusiasta de la **ciberseguridad** y el **hacking ético**, con una mentalidad analítica y enfoque humano.  
 🔍 **Analista SOC & Threat Intelligence en formación**, centrada en el aprendizaje continuo y la mejora técnica.  
-👩‍💻 Apasionada por la **creación de herramientas** que optimicen la detección y respuesta ante amenazas.  
-📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
+👩‍💻 Apasionada por la **creación de herramientas** que optimicen la detección y respuesta ante amenazas. 
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.
+📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
+
+
 
 > “De los datos a la defensa, con visión humana.”
 
