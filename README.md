@@ -2,9 +2,7 @@
 <h1 align="center">Vanesa Sierra</h1>
 <p align="center">✨ <i>From data to defense — with a human vision.</i> ✨</p>
 
-<p align="center">
-  <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
-</p>
+
 
 <p align="center">
   <a href="https://github.com/sierratrace">
@@ -15,7 +13,10 @@
  
 </p>
 
----
+
+<p align="center">
+  <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
+</p>---
 
 ## ⭐ Acerca de mí
 🔐 Entusiasta de la **ciberseguridad** y el **hacking ético**, con una mentalidad analítica y enfoque humano.  
