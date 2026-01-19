@@ -43,7 +43,7 @@
 - **Hacking ético y OSINT:** Nmap, Recon-ng, Google Dorks, trazabilidad digital
 - **Desarrollo y automatización:** Python, SQL, Bash, PowerShell
 - **Sistemas y cloud:** Linux, Windows, Azure, Google Cloud
-- **Gestión de versiones:** Git / GitHub /GitLab.
+- **Gestión de versiones:** Git / GitHub / GitLab.
 
 ---
 
