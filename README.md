@@ -57,9 +57,9 @@
 - 🧰 **Ciberseguridad Industrial — FSE (2025)**
 - ☁️ **Microsoft Azure Fundamentals — (2023)**
 - 🧠 **MITRE ATT&CK — LinkedIn Learning (2025)**
-- 💻 **Técnico DAM — UOC (2026)**
+- 💻 **Técnico Superior en DAM — UOC (2026)**
 - 🌱 **Experta Profesional en Coaching Integral 3.0 — UNED (2020)**
-- 👩‍💻 **Técnico Sonido — PuertaBonita (2003)**
+- 👩‍💻 **Técnico Superior en Sonido — PuertaBonita (2003)**
 
 ---
 
