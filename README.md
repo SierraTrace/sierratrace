@@ -16,7 +16,9 @@
 
 <p align="center">
   <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
-</p>---
+</p>
+
+---
 
 ## ⭐ Acerca de mí
 🔐 Entusiasta de la **ciberseguridad** y el **hacking ético**, con una mentalidad analítica y enfoque humano.  
