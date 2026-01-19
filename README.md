@@ -29,7 +29,7 @@
 ---
 
 ## 💻 Actualmente estoy
-📘 Estudiando **Ciberseguridad y Hacking Ético** (Cisco).  
+📘 Estudiando **Ciberseguridad y Hacking Ético** .  
 🧠 Profundizando en **análisis forense digital** y **OSINT**.  
 🔧 Desarrollando herramientas propias en **Python** y **Bash** para tareas de seguridad.  
 ☁️ Ampliando conocimientos en **Google Cloud** y entornos híbridos.  
@@ -43,7 +43,7 @@
 - **Hacking ético y OSINT:** Nmap, Recon-ng, Google Dorks, trazabilidad digital
 - **Desarrollo y automatización:** Python, SQL, Bash, PowerShell
 - **Sistemas y cloud:** Linux, Windows, Azure, Google Cloud
-- **Gestión de versiones:** Git / GitHub
+- **Gestión de versiones:** Git / GitHub /GitLab.
 
 ---
 
