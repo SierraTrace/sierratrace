@@ -1,5 +1,7 @@
 <!-- Header -->
 <h1 align="center">Vanesa Sierra</h1>
+<p align="center">✨ <i>From data to defense — with a human vision.</i> ✨</p>
+
 <p align="center">
   <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
 </p>
@@ -62,7 +64,7 @@
 ## 📫 Contacto
 - LinkedIn: https://www.linkedin.com/in/vanesasierra
 ---
-<p align="center">✨ <i>From data to defense — with a human vision.</i> ✨</p>
+
 
 
 
