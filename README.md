@@ -9,8 +9,7 @@
    
   </a>
   
-  <img alt="Top Langs"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=8&hide=html,css" />
+  <img src="https://streak-stats.demolab.com/?user=sierratrace" />
  
 </p>
 
