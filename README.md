@@ -7,12 +7,11 @@
 <p align="center">
   <a href="https://github.com/sierratrace">
    
-  </a>
-  
-  <img src="https://streak-stats.demolab.com/?user=sierratrace" />
- 
+  <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" 
+  />
 </p>
-
 
 <p align="center">
   <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
