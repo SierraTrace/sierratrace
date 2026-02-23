@@ -9,7 +9,8 @@
    
   </a>
   
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&hide=html" />
+  <<img alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&cache_seconds=86400" />
  
 </p>
 
