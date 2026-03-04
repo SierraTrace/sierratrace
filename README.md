@@ -25,11 +25,6 @@
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
 📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
 
-
-
-> “De los datos a la defensa, con visión humana.”
-
-
 ---
 
 
