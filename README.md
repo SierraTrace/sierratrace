@@ -8,7 +8,7 @@
   <a href="https://github.com/sierratrace">
    
 <p align="center">
-  <img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
 </p>
 
 <p align="center">
