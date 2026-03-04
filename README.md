@@ -1,5 +1,4 @@
 <!-- Header -->
-<h1 align="center">Vanesa Sierra</h1>
 <p align="center">
 ✨ <i>From data to defense — with a human vision.</i> ✨
 </p>
@@ -21,8 +20,7 @@ Explorando seguridad ofensiva, defensa y arquitectura de aplicaciones.
 ## Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=8&hide_border=true" height="165"/>
+  <img src="[https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true" height="165](https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true&count_private=true)"/>
 </p>
 
 ---
