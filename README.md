@@ -6,13 +6,14 @@
 
 <p align="center">
   <a href="https://github.com/sierratrace">
-   
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=true)
-
-
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=8&hide_border=true" />
+  </a>
+</p>
 <p align="center">
   <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true" />
 </p>
 
 ---
