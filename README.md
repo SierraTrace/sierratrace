@@ -25,12 +25,5 @@
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
 📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
 
----
-
-
-## 📫 Contacto
-- LinkedIn: https://www.linkedin.com/in/vanesasierra
----
-
 
 
