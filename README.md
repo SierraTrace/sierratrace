@@ -38,7 +38,7 @@ Explorando seguridad ofensiva, defensa y arquitectura de aplicaciones.
 ## Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,mysql,linux,git,github,docker, gitlab"/>
+<img src="https://skillicons.dev/icons?i=python,java,cs,dotnet,mysql,linux,git,github,docker,gitlab"/>
 </p>
 
 ---
