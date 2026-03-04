@@ -20,8 +20,7 @@
 ## ⭐ Acerca de mí
 
 🔍 **Ingeniera Junior de Ciberseguridad**, centrada en el aprendizaje continuo y la mejora técnica.  
-🔐 Entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.  
-👩‍💻 Apasionada por la **creación de herramientas** que optimicen la detección y respuesta ante amenazas.     
+🔐 Entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.    
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
 📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
 
