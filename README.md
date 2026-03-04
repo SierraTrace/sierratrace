@@ -19,7 +19,6 @@
 
 ## ⭐ Acerca de mí
 🔍 **Ingeniera Junior de Ciberseguridad**, centrada en el aprendizaje continuo y la mejora técnica.
-
 🔐 Entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.  
 👩‍💻 Apasionada por la **creación de herramientas** que optimicen la detección y respuesta ante amenazas.     
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
@@ -31,14 +30,6 @@
 
 
 ---
-
-## 🧩 Competencias técnicas
-- **Detección y respuesta:** SIEM, IDS/IPS, MITRE ATT&CK, NIST IR
-- **Análisis de red:** Wireshark, TCPdump, tráfico DNS/TCP/HTTP
-- **Hacking ético y OSINT:** Nmap, Recon-ng, Google Dorks, trazabilidad digital
-- **Desarrollo y automatización:** Python, SQL, Bash, PowerShell
-- **Sistemas y cloud:** Linux, Windows, Azure, Google Cloud
-- **Gestión de versiones:** Git / GitHub / GitLab.
 
 
 ## 📫 Contacto
