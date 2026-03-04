@@ -2,18 +2,14 @@
 <h1 align="center">Vanesa Sierra</h1>
 <p align="center">✨ <i>From data to defense — with a human vision.</i> ✨</p>
 
+<p align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=8&hide_border=true)
+
+</p>
 
 <p align="center">
-  <a href="https://github.com/sierratrace">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&langs_count=8&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong> 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true" />
+<strong>-CIBERSEGURIDAD-HACKING ÉTICO-DESARROLLO-</strong>
 </p>
 
 ---
@@ -21,9 +17,13 @@
 ## ⭐ Acerca de mí
 
 🔍 **Ingeniera Junior de Ciberseguridad**, centrada en el aprendizaje continuo y la mejora técnica.  
-🔐 Entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.    
-🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
+🔐 Entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.  
+🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.  
 📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
 
+---
 
+## 📊 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sierratrace&show_icons=true&hide_border=true)
 
