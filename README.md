@@ -18,8 +18,8 @@
 ---
 
 ## ⭐ Acerca de mí
-🔐 Profesial de **ciberseguridad** y entusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.  
-🔍 **Ingeniera Junior de Ciberseguridad**, centrada en el aprendizaje continuo y la mejora técnica.  
+🔍 **Ingeniera Junior de Ciberseguridad**, centrada en el aprendizaje continuo y la mejora técnica. 
+🔐 eEntusiasta del **hacking ético**, con una mentalidad analítica y enfoque humano.  
 👩‍💻 Apasionada por la **creación de herramientas** que optimicen la detección y respuesta ante amenazas.     
 🎧 Apasionada por el **estudio del audio y el sonido**, explorando su aplicación en seguridad y análisis de señales.       
 📚 En constante evolución, explorando nuevas técnicas, metodologías y frameworks de seguridad.
@@ -28,14 +28,6 @@
 
 > “De los datos a la defensa, con visión humana.”
 
----
-
-## 💻 Actualmente estoy
-📘 Estudiando **Ciberseguridad y Hacking Ético** .  
-🧠 Profundizando en **análisis forense digital** y **OSINT**.  
-🔧 Desarrollando herramientas propias en **Python** y **Bash** para tareas de seguridad.  
-☁️ Ampliando conocimientos en **Google Cloud** y entornos híbridos.  
-📘 Estudiando la **Norma ISO 27001/2022** para gestión de la seguridad de la información.  
 
 ---
 
@@ -46,19 +38,6 @@
 - **Desarrollo y automatización:** Python, SQL, Bash, PowerShell
 - **Sistemas y cloud:** Linux, Windows, Azure, Google Cloud
 - **Gestión de versiones:** Git / GitHub / GitLab.
-
----
-
-## 📚 Formación y certificaciones
-- 🎓 Certificado Profesional de **Ciberseguridad — Google (2025)**
-- 🧰 **Ciberseguridad Industrial — FSE (2025)**
-- ☁️ **Microsoft Azure Fundamentals — (2023)**
-- 🧠 **MITRE ATT&CK — LinkedIn Learning (2025)**
-- 💻 **Técnico Superior en DAM — UOC (2026)**
-- 🌱 **Experta Profesional en Coaching Integral 3.0 — UNED (2020)**
-- 👩‍💻 **Técnico Superior en Sonido — PuertaBonita (2003)**
-
----
 
 
 ## 📫 Contacto
