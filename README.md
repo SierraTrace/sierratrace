@@ -25,13 +25,6 @@ Explorando seguridad ofensiva, defensa y arquitectura de aplicaciones.
 
 ---
 
-## Actividad
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sierratrace&hide_border=true"/>
-</p>
-
----
 
 ## Tecnologías
 
