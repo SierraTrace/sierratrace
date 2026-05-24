@@ -15,17 +15,6 @@ Ingeniera junior de ciberseguridad enfocada en aprendizaje continuo, análisis t
 Interés en hacking ético, análisis de sistemas y desarrollo de software.  
 Explorando seguridad ofensiva, defensa y arquitectura de aplicaciones.
 
----
-
-## Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierratrace&layout=compact&size_weight=0.5&count_weight=0.5"/>
-</p>
-
----
-
-
 ## Tecnologías
 
 <p align="center">
